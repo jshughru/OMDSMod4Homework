@@ -28,7 +28,7 @@
         },
         "location": {
           "type": "string",
-          "defaultValue": "westus"
+          "defaultValue": "westus3"
         },
         "maxSizeBytes": {
             "type": "int"
